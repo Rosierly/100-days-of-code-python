@@ -17,21 +17,21 @@ DAY-XX-PROJECT_NAME/
 
 | Day    | Project                                                                                  | README File                                                           |
 |--------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| 01 | [Band Name Generator](./Daily-Projects/DAY-01-Band_Name_Generator/src/main.py)               | [README.md](./Daily-Projects/DAY-01-Band_Name_Generator/README.md)    |
-| 02 | [Tip Calculator](./Daily-Projects/DAY-02-Tip_Calculator/src/main.py)                         | [README.md](./Daily-Projects/DAY-02-Tip_Calculator/README.md)         |
-| 03 | [Treasure Island](./Daily-Projects/DAY-03-Treasure_Island/src/main.py)                       | [README.md](./Daily-Projects/DAY-03-Treasure_Island/README.md)        |
-| 04 | [Rock Paper Scissors](./Daily-Projects/DAY-04-Rock_Paper_Scissors/src/main.py)               | [README.md](./Daily-Projects/DAY-04-Rock_Paper_Scissors/README.md)    |
-| 05 | [Password Generator](./Daily-Projects/DAY-05-Password_Generator/src/main.py)                 | [README.md](./Daily-Projects/DAY-05-Password_Generator/README.md)     |
-| 06 | No Final Project                                                                             | [README.md](./Daily-Projects/DAY-06-Reeborgs_World/README.md)         |
-| 07 | [Hangman](./Daily-Projects/DAY-07-Hangman/src/main.py)                                       | [README.md](./Daily-Projects/DAY-07-Hangman/README.md)                |
-| 08 | [Caesar Cipher](./Daily-Projects/DAY-08-Caesar_Cipher/src/main.py)                           | [README.md](./Daily-Projects/DAY-08-Caesar_Cipher/README.md)          |
-| 09 | [Secret Auction](./Daily-Projects/DAY-09-Secret_Auction/src/main.py)                         | [README.md](./Daily-Projects/DAY-09-Secret_Auction/README.md)         |
-| 10 | [Calculator](./Daily-Projects/DAY-10-Calculator/src/main.py)                                 | [README.md](./Daily-Projects/DAY-10-Calculator/README.md)             |
-| 11 | [Blackjack](./Daily-Projects/DAY-11-Blackjack/src/main.py)                                   | [README.md](./Daily-Projects/DAY-11-Blackjack/README.md)              |
-| 12 | [Number Guessing Game](./Daily-Projects/DAY-12-Number_Guessing_Game/src/main.py)             | [README.md](./Daily-Projects/DAY-12-Number_Guessing_Game/README.md)   |
-| 13 | No Final Project                                                                             | [README.md](./Daily-Projects/DAY-13-No_Project/README.md)             |
-| 14 | [Higher Lower Game](./Daily-Projects/DAY-14-Higher_Lower_Game/src/main.py)                   | [README.md](./Daily-Projects/DAY-14-Higher_Lower_Game/README.md)      |
-| 15 | [Coffee Machine](./Daily-Projects/DAY-15-Coffee_Machine/src/main.py)                         | [README.md](./Daily-Projects/DAY-15-Coffee_Machine/README.md)         |
+| 01 | [Band Name Generator](./Projects/Day-01-Band_Name_Generator/src/main.py)               | [README.md](./Daily-Projects/Day-01-Band_Name_Generator/README.md)    |
+| 02 | [Tip Calculator](./Projects/Day-02-Tip_Calculator/src/main.py)                         | [README.md](./Daily-Projects/Day-02-Tip_Calculator/README.md)         |
+| 03 | [Treasure Island](./Projects/Day-03-Treasure_Island/src/main.py)                       | [README.md](./Daily-Projects/Day-03-Treasure_Island/README.md)        |
+| 04 | [Rock Paper Scissors](./Projects/Day-04-Rock_Paper_Scissors/src/main.py)               | [README.md](./Daily-Projects/Day-04-Rock_Paper_Scissors/README.md)    |
+| 05 | [Password Generator](./Projects/Day-05-Password_Generator/src/main.py)                 | [README.md](./Daily-Projects/Day-05-Password_Generator/README.md)     |
+| 06 | No Final Project                                                                             | [README.md](./Daily-Projects/Day-06-Reeborgs_World/README.md)         |
+| 07 | [Hangman](./Projects/Day-07-Hangman/src/main.py)                                       | [README.md](./Daily-Projects/Day-07-Hangman/README.md)                |
+| 08 | [Caesar Cipher](./Projects/Day-08-Caesar_Cipher/src/main.py)                           | [README.md](./Daily-Projects/Day-08-Caesar_Cipher/README.md)          |
+| 09 | [Secret Auction](./Projects/Day-09-Secret_Auction/src/main.py)                         | [README.md](./Daily-Projects/Day-09-Secret_Auction/README.md)         |
+| 10 | [Calculator](./Projects/Day-10-Calculator/src/main.py)                                 | [README.md](./Daily-Projects/Day-10-Calculator/README.md)             |
+| 11 | [Blackjack](./Projects/Day-11-Blackjack/src/main.py)                                   | [README.md](./Daily-Projects/Day-11-Blackjack/README.md)              |
+| 12 | [Number Guessing Game](./Projects/Day-12-Number_Guessing_Game/src/main.py)             | [README.md](./Daily-Projects/Day-12-Number_Guessing_Game/README.md)   |
+| 13 | No Final Project                                                                             | [README.md](./Daily-Projects/Day-13-No_Project/README.md)             |
+| 14 | [Higher Lower Game](./Projects/Day-14-Higher_Lower_Game/src/main.py)                   | [README.md](./Daily-Projects/Day-14-Higher_Lower_Game/README.md)      |
+| 15 | [Coffee Machine](./Projects/Day-15-Coffee_Machine/src/main.py)                         | [README.md](./Daily-Projects/Day-15-Coffee_Machine/README.md)         |
 | ...    | ...                   | ...                                                              | ...                                                                   |
 
 
