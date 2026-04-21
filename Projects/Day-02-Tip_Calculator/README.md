@@ -1,6 +1,8 @@
 # Day 2 - Tip Calculator
 A simple Python console program that calculates how much each person should pay when splitting a bill, including tip.
 
+<img width="800" height="289" alt="day-02-project" src="https://github.com/user-attachments/assets/525d32b4-a053-4df4-91f2-b367f73421f4" />
+
 
 ## Notes
 
