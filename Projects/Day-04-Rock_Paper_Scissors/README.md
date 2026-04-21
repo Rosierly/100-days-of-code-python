@@ -1,6 +1,7 @@
 # Day 4 - Rock Paper Scissors Game
 A simple rock-paper-scissors game where the user plays against the computer.
 
+<img width="800" height="621" alt="day-04-project" src="https://github.com/user-attachments/assets/70690211-e77c-408f-a749-683d2dc36f53" />
 
 ## Notes
 
