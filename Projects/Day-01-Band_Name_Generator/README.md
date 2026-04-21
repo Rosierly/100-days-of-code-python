@@ -1,9 +1,9 @@
 ## Day 1 - Band Name Generator
 A simple Python console program that generates a band name by combining the name of your hometown and your pet's name.
-***
+
+<img width="562" height="326" alt="100-days-of-code-pythonmain py2026-04-2200-33-42-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e1131fbd-2241-4712-9be5-7ff2062168e6" />
 
 ## Notes
-***
 
 ### print() Function
 ###### Displays output or messages to the screen (console).
