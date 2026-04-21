@@ -1,6 +1,7 @@
 # Day 3 - Treasure Island Game
 A text-based adventure game where the player makes choices to find the treasure.
 
+<img width="800" height="495" alt="day-03-project" src="https://github.com/user-attachments/assets/ea606887-8437-4334-bf0e-253d96d75eb7" />
 
 ## Notes
 
