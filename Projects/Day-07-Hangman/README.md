@@ -1,6 +1,7 @@
 # Day 7 - Hangman Game
 A classic hangman game where the user chooses difficulty, guesses letters, and tries to reveal the hidden word before running out of lives.
 
+<img width="800" height="583" alt="day-07-project" src="https://github.com/user-attachments/assets/c51d20f7-b4c3-4e0b-86c8-c9066a41235b" />
 
 ## Notes
 
