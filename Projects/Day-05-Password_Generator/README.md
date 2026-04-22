@@ -1,6 +1,7 @@
 # Day 5 - Password Generator
 A program that generates a random password based on user-specified numbers of letters, symbols, and numbers.
 
+<img width="800" height="525" alt="day-05-project" src="https://github.com/user-attachments/assets/3629c176-561b-4023-86df-855671aa96e7" />
 
 ## Notes
 
