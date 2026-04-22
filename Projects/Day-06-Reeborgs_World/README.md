@@ -1,6 +1,7 @@
 # Day 6 - Reeborg's World
 Guide a robot through a maze using conditional logic and loops to reach the goal by following the right-hand rule: [Reeborg's World - Maze Challenge](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
+<img width="656" height="650" alt="day-06-project" src="https://github.com/user-attachments/assets/1e887575-3f19-4f51-bc80-733309c9578f" />
 
 ## Notes
 
