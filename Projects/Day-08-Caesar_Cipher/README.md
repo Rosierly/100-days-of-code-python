@@ -1,6 +1,7 @@
 # Day 8 - Caesar Cipher
 A program that encrypts or decrypts messages using the Caesar cipher technique, shifting letters by a user-specified number.
 
+<img width="800" height="641" alt="day-08-project" src="https://github.com/user-attachments/assets/99d95567-2669-4676-88dc-1d7b52009aa7" />
 
 ## Notes
 
