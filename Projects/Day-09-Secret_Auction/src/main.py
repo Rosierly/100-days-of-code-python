@@ -11,6 +11,12 @@ def clear_screen():
         print("\n" * 40)
 
 
+def display_logo(with_welcome: bool = False):
+    print(f"{logo}\n")
+    if with_welcome:
+        print("Welcome to the Secret Auction Program.\n")
+
+
 def get_bid(bids: dict[str, float]) -> tuple[str, float]:
     """Get a valid name and bid amount from the user and return it."""
     while True:
@@ -59,7 +65,7 @@ def find_highest_bidders(bids: dict[str, float]) -> tuple[list[str], float]:
 
 def auction():
     """Run the auction program."""
-    print(logo)
+    display_logo(with_welcome=True)
     all_bids = {}
 
     continue_bidding = True
@@ -71,6 +77,7 @@ def auction():
         # Check if there are any more bidders and clear screen
         continue_bidding = should_continue_bidding()
         clear_screen()
+        display_logo()
 
     # Determine and display the winner(s)
     winners, winning_amount = find_highest_bidders(all_bids)
