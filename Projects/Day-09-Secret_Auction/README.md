@@ -1,7 +1,7 @@
 # Day 9 - Secret Auction Program
 A program that simulates a blind auction. Multiple users can enter their bids anonymously, and at the end, the highest bidder wins.
 
-<img width="800" height="646" alt="day-09-project" src="https://github.com/user-attachments/assets/03447b00-c6ec-482b-afc7-bcca1e6763f1" />
+<img width="800" height="574" alt="day-09-project" src="https://github.com/user-attachments/assets/b398190c-56ce-4665-a3d2-4001cd741437" />
 
 ## Notes
 
