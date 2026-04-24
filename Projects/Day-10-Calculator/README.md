@@ -1,6 +1,7 @@
 # Day 10 - Calculator Program
 A calculator program that performs continuous operations (+, -, *, /) and allows the user to keep calculating with the previous result or start over.
 
+<img width="800" height="419" alt="day-10-project" src="https://github.com/user-attachments/assets/9c24c25b-ae92-49f0-82a2-0ef8952cad51" />
 
 ## Notes
 
