@@ -98,5 +98,5 @@ def calculator():
                 print("That's not a valid input. Please try again.")
 
 
-print(logo)
+reset_screen()
 calculator()
