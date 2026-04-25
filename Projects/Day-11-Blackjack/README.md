@@ -1,7 +1,7 @@
 # Day 11 - Blackjack Game
 A Python program that simulates a simplified game of Blackjack where the user plays against the computer (dealer).
 
-<img width="auto" height="541" alt="day-11-project" src="https://github.com/user-attachments/assets/b35d04b0-35b9-4aa5-8208-bc5ba614a62e" />
+<img width="auto" height="600" alt="day-11-project" src="https://github.com/user-attachments/assets/b35d04b0-35b9-4aa5-8208-bc5ba614a62e" />
 
 ## Notes
 
