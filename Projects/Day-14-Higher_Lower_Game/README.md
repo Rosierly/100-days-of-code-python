@@ -1,6 +1,7 @@
 # Day 14 - Higher Lower Game
 A game where the player is shown two public figures, brands, or entities and must guess which one has more social media followers.
 
+<img width="800" height="458" alt="day-14-project" src="https://github.com/user-attachments/assets/3dd07510-8a09-45b1-8944-2fc257cb78ab" />
 
 ## Notes
 
