@@ -29,7 +29,7 @@ DAY-XX-PROJECT_NAME/
 | 10  | [Calculator](./Projects/Day-10-Calculator/README.md)                                 |
 | 11  | [Blackjack](./Projects/Day-11-Blackjack/README.md)                                   |
 | 12  | [Number Guessing Game](./Projects/Day-12-Number_Guessing_Game/README.md)             | 
-| 13  | [No Final Project](./Projects/Day-13-N0_Project/README.md)                           | 
+| 13  | [No Final Project](./Projects/Day-13-No_Project/README.md)                           | 
 | 14  | [Higher Lower Game](./Projects/Day-14-Higher_Lower_Game/README.md)                   |
 | 15  | [Coffee Machine](./Projects/Day-15-Coffee_Machine/README.md)                         |
 | ... | ...                                                                                  | ...                                                        
