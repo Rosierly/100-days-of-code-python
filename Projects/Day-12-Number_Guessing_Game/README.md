@@ -1,6 +1,7 @@
 # Day 12 - Number Guessing Game
 A number guessing game where the player chooses a difficulty, then tries to guess a secret number between 1 and 100 before running out of attempts.
 
+<img width="800" height="525" alt="day-12-project" src="https://github.com/user-attachments/assets/061e8eb5-c4c2-4487-a90b-47a55804772b" />
 
 ## Notes
 
