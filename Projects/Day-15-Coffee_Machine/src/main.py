@@ -181,7 +181,7 @@ def process_order():
 
 def coffee_machine():
     """Run the main coffee machine command loop."""
-    menu = (
+    menu_display = (
         "\n=== Coffee Machine Menu ===\n"
         "  order  - place an order\n"
         "  report - view resources\n"
@@ -190,7 +190,7 @@ def coffee_machine():
         "  off    - turn off machine"
     )
 
-    print(menu)
+    print(menu_display)
 
     while True:
         command = input("\nEnter command or type 'help' for options: ").strip().lower()
@@ -202,7 +202,7 @@ def coffee_machine():
         elif command == "add":
             add_resources()
         elif command == "help":
-            print(menu)
+            print(menu_display)
         elif command == "off":
             break
         else:
