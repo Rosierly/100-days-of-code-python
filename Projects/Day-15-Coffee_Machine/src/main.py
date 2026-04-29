@@ -71,9 +71,12 @@ money = 0
 # -------------------- LOGIC --------------------
 def check_resources(selected_coffee):
     """Check if enough resources are available for the selected coffee."""
+    missing = []
     for resource, amount_needed in MENU[selected_coffee]["ingredients"].items():
         if resources[resource] < amount_needed:
-            return False, resource
+            missing.append(resource)
+    if missing:
+        return False, missing
     return True, None
 
 
@@ -157,9 +160,9 @@ def process_order():
     coffee = get_coffee()
 
     # Ensure enough resources are available before taking payment
-    is_resources_sufficient, missing_resource = check_resources(coffee)
+    is_resources_sufficient, missing_resources = check_resources(coffee)
     if not is_resources_sufficient:
-        print(f"Sorry, there is not enough {missing_resource}.")
+        print(f"Sorry, there is not enough {', '.join(missing_resources)}.")
         return
 
     cost = MENU[coffee]["cost"]
