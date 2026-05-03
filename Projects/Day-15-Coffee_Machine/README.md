@@ -1,7 +1,7 @@
 # Day 15 - Coffee Machine Program
 A simulation of a coin-operated coffee machine that can serve espresso, latte, or cappuccino while tracking resources and processing payments.
 
-<img width="auto" height="520" alt="day-15-project" src="https://github.com/user-attachments/assets/112cb6d5-f952-4ce3-a8a7-e98d605932f8" />
+<img width="auto" height="540" alt="day-15-project" src="https://github.com/user-attachments/assets/a77a882d-b5d6-4e2b-b549-ed550a79eb76" />
 
 ## Notes
 
