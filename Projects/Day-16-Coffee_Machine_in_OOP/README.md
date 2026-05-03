@@ -1,6 +1,7 @@
 # Day 16 - Coffee Machine Program in Object-Oriented Programming (OOP)
 A simulation of a coin-operated coffee machine that, as required by the exercise, uses the provided modules to serve espresso, latte, or cappuccino while tracking resources and processing payments.
 
+<img width="auto" height="540" alt="day-16-project" src="https://github.com/user-attachments/assets/9752f472-62e5-45b2-af38-713600a8fde2" />
 
 ## Notes
 
