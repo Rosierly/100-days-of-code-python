@@ -31,7 +31,9 @@ DAY-XX-PROJECT_NAME/
 | 12  | [Number Guessing Game](./Projects/Day-12-Number_Guessing_Game/README.md)             | 
 | 13  | [No Final Project](./Projects/Day-13-No_Project/README.md)                           | 
 | 14  | [Higher Lower Game](./Projects/Day-14-Higher_Lower_Game/README.md)                   |
-| 15  | [Coffee Machine](./Projects/Day-15-Coffee_Machine/README.md)                         |
+| 15  | [Coffee Machine Procedural](./Projects/Day-15-Coffee_Machine_Procedural/README.md)   |
+| 16  | [Coffee Machine OOP](./Projects/Day-16-Coffee_Machine_OOP/README.md)                 |
+| 17  | [Quiz Game](./Projects/Day-17-Quiz_Game/README.md)                                   |
 | ... | ...                                                                                  | ...                                                        
 
 
