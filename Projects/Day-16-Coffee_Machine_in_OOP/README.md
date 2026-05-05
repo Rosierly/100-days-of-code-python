@@ -130,6 +130,6 @@ print(table)
 - *[Turtle Color Names](https://cs111.wellesley.edu/reference/colors)*
 - *[Python Package Index (PyPI)](https://pypi.org/)*
 - *[PrettyTable Package](https://pypi.org/project/prettytable/)*
-- *[PrettyTable Package Documentation)](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)*
+- *[PrettyTable Package Documentation](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)*
 ***
 
