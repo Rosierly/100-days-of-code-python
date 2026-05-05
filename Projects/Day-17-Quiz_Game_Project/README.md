@@ -1,6 +1,7 @@
 # Day 17 - Quiz Game Project
 An object-oriented Python quiz game where the user answers true/false questions, receives feedback, and tracks their score.
 
+<img width="900" height="533" alt="day-17-project" src="https://github.com/user-attachments/assets/78a917e5-7ef9-4025-a944-5d7a5346dfa1" />
 
 ## Notes
 
