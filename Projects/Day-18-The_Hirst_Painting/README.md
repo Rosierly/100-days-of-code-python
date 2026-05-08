@@ -1,5 +1,6 @@
 # Day 18 - The Hirst Painting
 
+<img width="auto" height="510" alt="day-18-project" src="https://github.com/user-attachments/assets/f05bf0e3-0afa-41ec-b7cd-7fda70d6644f" />
 
 ## Packages used:
 - colorgram.py → extracts colors from images
