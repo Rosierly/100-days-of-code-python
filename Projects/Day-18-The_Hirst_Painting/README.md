@@ -1,4 +1,5 @@
 # Day 18 - The Hirst Painting
+A Python program that recreates a Hirst-style dot painting using turtle graphics and colors extracted from an image.
 
 <img width="auto" height="510" alt="day-18-project" src="https://github.com/user-attachments/assets/f05bf0e3-0afa-41ec-b7cd-7fda70d6644f" />
 
