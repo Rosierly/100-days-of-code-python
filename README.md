@@ -7,10 +7,12 @@ Tracking my progress in the 100 Days of Code course with Python projects, challe
 ```
 DAY-XX-PROJECT_NAME/
 │
-├── README.md          → Project overview, instructions + concepts I learned that day
+├── README.md → Project overview, instructions, packages used, and concepts learned
+├── assets/ → Images, PDFs, datasets, or other project resources
+├── practice/ → Optional practice/sandbox files for experimenting with concepts
 └── src/
-    ├── main.py        → Main Python script for the project
-    └── other files    → Any additional modules or assets needed for the project
+    ├── main.py → Main Python script for the project
+    └── other files → Additional modules required for the project
 ```
 
 ---
