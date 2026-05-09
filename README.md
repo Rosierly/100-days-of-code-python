@@ -36,6 +36,8 @@ DAY-XX-PROJECT_NAME/
 | 15  | [Coffee Machine Procedural](./Projects/Day-15-Coffee_Machine_Procedural/README.md)   |
 | 16  | [Coffee Machine OOP](./Projects/Day-16-Coffee_Machine_OOP/README.md)                 |
 | 17  | [Quiz Game](./Projects/Day-17-Quiz_Game/README.md)                                   |
+| 18  | [The Hirst Painting](./Projects/Day-18-The_Hirst_Painting/README.md)                                   |
+| 19  | [Turtle Race](./Projects/Day-19-Turtle_Race/README.md)                                   |
 | ... | ...                                                                                  | ...                                                        
 
 
