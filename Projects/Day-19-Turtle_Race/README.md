@@ -154,6 +154,7 @@ screen.onkeypress(key="d", fun=turn_right)
 screen.onkey(key="c", fun=clear)
 screen.exitonclick()
 ```
+***
 
 ### References:
 - *[The listen() method](https://docs.python.org/3/library/turtle.html#turtle.listen)*
