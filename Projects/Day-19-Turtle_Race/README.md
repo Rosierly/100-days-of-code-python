@@ -1,6 +1,7 @@
 # Day 19 - Turtle Race
 A turtle graphics racing game where the user places a bet on a colored turtle and watches randomly moving racers compete to reach the finish line first.
 
+<img width="auto" height="480" alt="day-19-project" src="https://github.com/user-attachments/assets/43cd7e8b-936a-40d1-a4fb-e0e70252f54a" />
 
 ## Notes
 
