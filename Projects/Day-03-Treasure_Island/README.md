@@ -187,3 +187,7 @@ print("Hello".upper())  # output: 'HELLO'
 ###### To include multi-line strings in our code, docstrings (multi-line comments - documentation), we use triple quotes: ' ' ' or  " " "
 ###### For ASCII art we use only single triple single quotes: ' ' ' 
 ***
+
+### References:
+- *[Add your own ASCII art](https://ascii.co.uk/art)*
+***

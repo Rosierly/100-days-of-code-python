@@ -149,3 +149,8 @@ URL = "https://www.google.com"
 TWITTER_HANDLE = "@yu_angela"
 ```
 ***
+
+### References:
+- *[Get your own ASCII Text from Patorjk](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false)*
+- *[Using Python Tutor to Step Through your Code](https://pythontutor.com/visualize.html#mode=edit)*
+***

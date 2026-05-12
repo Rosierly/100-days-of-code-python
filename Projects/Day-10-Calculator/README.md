@@ -229,3 +229,7 @@ operation = subtract
 print(operation(5, 3))  # Output: 2
 ```
 ***
+
+### References:
+- *[How to Convert Strings to Title Case](https://stackoverflow.com/questions/8347048/how-to-convert-string-to-title-case-in-python)*
+***

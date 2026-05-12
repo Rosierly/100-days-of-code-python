@@ -97,3 +97,9 @@ for number in range(a, b):
     print(number)
 ```
 ***
+
+### References:
+- *[Built-in Python Functions](https://docs.python.org/3/library/functions.html)*
+- *[PEP 8 - The Python Style Guide](https://peps.python.org/pep-0008/)*
+- *[Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json)*
+***

@@ -84,3 +84,10 @@ if 'z' not in word:
     print("'z' is not in the word!")  # gets printed --> the letter 'z' is not in the word
 ```
 ***
+
+### References:
+- *[Python List Documentation](https://developers.google.com/edu/python/lists#for-and-in)*
+- *[Python Lists and Range()](https://developers.google.com/edu/python/lists#range)*
+- *[Importing Modules](https://www.askpython.com/python/python-import-statement)*
+***
+

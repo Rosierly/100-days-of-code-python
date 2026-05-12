@@ -93,3 +93,7 @@ print(math.floor(22.6))   # Output: 22
 print(math.floor(10.0))   # Output: 10
 ```
 ***
+
+### References:
+- *[Python List index() Method](https://www.w3schools.com/python/ref_list_index.asp)*
+***

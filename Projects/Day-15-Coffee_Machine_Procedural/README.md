@@ -161,6 +161,10 @@ def some_function():
 - Use `Alt + Enter` for quick fixes and intentions.
 - Use `Shift + F6` for safe renaming across your code.
 - `Ctrl + /` is great for quickly toggling comments.
+***
 
-*Reference: [JetBrains PyCharm Keyboard Shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html?keymap=secondary_windows)*
+### References:
+- *[JetBrains PyCharm Keyboard Shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html?keymap=secondary_windows)*
+- *[How to bring up the Emoji Keyboard on Windows 10](https://support.microsoft.com/en-gb/windows/windows-keyboard-tips-and-tricks-588e0b72-0fff-6d3f-aeee-6e5116097942)*
+- *[How to bring up the Emoji Keyboard on Mac](https://support.apple.com/en-gb/guide/mac-help/mchlp1560/mac)*
 ***

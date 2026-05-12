@@ -217,3 +217,8 @@ txt = "xyxxyHello World!yxyx"
 print(txt.strip("xy"))  # Output: 'Hello World!'
 ```
 ***
+
+### References:
+- *[The random() function - documentation](https://docs.python.org/3/library/random.html)*
+- *[Data Structures](https://docs.python.org/3/tutorial/datastructures.html)*
+***

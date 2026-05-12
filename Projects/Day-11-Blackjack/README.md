@@ -38,3 +38,8 @@ fruits.extend(new_list)          # ✅ Adds each element of new_list to the frui
 new_list += random_fruit         # ❌ TypeError: 'str' object is not iterable
 ```
 ***
+
+### References:
+- *[Python sum() Function](https://docs.python.org/3/library/functions.html#sum)*
+- *[Python list methods](https://developers.google.com/edu/python/lists#list-methods)*
+***

@@ -209,3 +209,7 @@ is_winning = True
 print(f"Your score is = {score}, your height is {height}. You are winning is {is_winning}.")
 ```
 ***
+
+### References:
+- *[Floating-Point Arithmetic](https://docs.python.org/3/tutorial/floatingpoint.html)*
+***
