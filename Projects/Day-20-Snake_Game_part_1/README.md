@@ -1,6 +1,7 @@
 # Day 20 - Snake Game Part 1
 A Snake Game built with Python Turtle Graphics featuring smooth movement, keyboard bindings for directional controls, and object-oriented design.
 
+<img width="auto" height="550" alt="day-20-project" src="https://github.com/user-attachments/assets/601ddffb-f23c-441a-8745-1a6df15b4ce3" />
 
 ## Notes
 
