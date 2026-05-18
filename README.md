@@ -39,6 +39,7 @@ DAY-XX-PROJECT_NAME/
 | 18  | [The Hirst Painting](./Projects/Day-18-The_Hirst_Painting/README.md)                 |
 | 19  | [Turtle Race](./Projects/Day-19-Turtle_Race/README.md)                               |
 | 20  | [Snake Game Part 1](./Projects/Day-20-Snake_Game_part_1/README.md)                   |
+| 21  | [Snake Game Part 2](./Projects/Day-21-Snake_Game_part_2/README.md)                   |
 | ... | ...                                                                                  | ...                                                        
 
 
