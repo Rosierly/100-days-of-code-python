@@ -1,6 +1,7 @@
 # Day 21 - Snake Game Part 2
 A classic Snake game built with Python’s Turtle module where the player controls a snake, collects food to increase the score, and avoids collisions with walls and its own tail.
 
+<img width="auto" height="550" alt="day-21-project" src="https://github.com/user-attachments/assets/970d057d-0583-48f2-86e6-b5d0ddf7ef57" />
 
 ## Notes
 
