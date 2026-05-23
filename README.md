@@ -41,6 +41,7 @@ DAY-XX-PROJECT_NAME/
 | 20  | [Snake Game Part 1](./Projects/Day-20-Snake_Game_part_1/README.md)                   |
 | 21  | [Snake Game Part 2](./Projects/Day-21-Snake_Game_part_2/README.md)                   |
 | 22  | [Arcade Pong Game](./Projects/Day-22-Arcade_Pong_Game/README.md)                     |
+| 23  | [Turtle Crossing Game](./Projects/Day-23-Turtle_Crossing_Game/README.md)             |
 | ... | ...                                                                                  | ...                                                        
 
 
