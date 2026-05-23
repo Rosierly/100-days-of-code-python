@@ -1,5 +1,7 @@
 # Day 23 - The Turtle Crossing Game
+A simple Turtle Crossing arcade game where the player moves a turtle across the screen while avoiding randomly spawning cars, with increasing difficulty after each successful crossing.
 
+<img width="auto" height="570" alt="day-23-project" src="https://github.com/user-attachments/assets/ca64c07b-793a-4857-95f9-28735f34a533" />
 
 ## Notes
 
