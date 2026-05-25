@@ -15,7 +15,7 @@ screen.setup(height=SCREEN_SIZE, width=SCREEN_SIZE)
 screen.bgcolor("black")
 screen.tracer(0)
 
-# Create Game Objects and Initialize `cars` List
+# Create Game Objects
 player = Player(SCREEN_SIZE)
 car_manager = CarManager(SCREEN_SIZE)
 scoreboard = Scoreboard(SCREEN_SIZE)
