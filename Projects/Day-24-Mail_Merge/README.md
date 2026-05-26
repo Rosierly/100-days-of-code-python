@@ -182,7 +182,7 @@ talk.ppt
 ***
 
 ## Snake Game V2 (Add a High Score)
-###### Improvement: Add a local file that saves player's highest score and display it on the screen.
+Improvement: Add a local file that saves player's highest score and display it on the screen.
 
 <img width="auto" height="550" alt="day-24-project2" src="https://github.com/user-attachments/assets/d1f2f558-a689-48f8-8b60-583a77665d95" />
 
