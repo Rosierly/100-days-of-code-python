@@ -1,6 +1,7 @@
 # Day 24 - The Mail Merge Project
 A mail merge program that reads a list of names, replaces placeholders in a template letter, and generates personalized invitation letters automatically.
 
+<img width="auto" height="620" alt="day-24-project" src="https://github.com/user-attachments/assets/a8adeaba-44b1-40db-88d4-43cc10d61be3" />
 
 ## Notes
 
@@ -183,6 +184,7 @@ talk.ppt
 ## Snake Game V2 (Add a High Score)
 ###### Improvement: Add a local file that saves player's highest score and display it on the screen.
 
+<img width="auto" height="550" alt="day-24-project2" src="https://github.com/user-attachments/assets/d1f2f558-a689-48f8-8b60-583a77665d95" />
 
 ### Notes
 ```python
