@@ -3,6 +3,9 @@ A geography quiz game where the player guesses U.S. states on a map using Python
 
 <img width="auto" height="560" alt="day-25-project" src="https://github.com/user-attachments/assets/1b312fc5-85e7-4b9c-aaa8-19b4572366d8" />
 
+## Packages used:
+- pandas → data manipulation and analysis library for working with structured (tabular) data using DataFrames
+
 ## Notes
 
 ### Working with CSV Files and Analyzing Data with Pandas
