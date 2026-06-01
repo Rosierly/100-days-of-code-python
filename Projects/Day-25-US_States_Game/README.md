@@ -1,6 +1,7 @@
 # Day 25 - U.S. States Game
 A geography quiz game where the player guesses U.S. states on a map using Python Turtle Graphics, tracks their score, and saves the states they missed to a file at the end of the game.
 
+<img width="auto" height="560" alt="day-25-project" src="https://github.com/user-attachments/assets/1b312fc5-85e7-4b9c-aaa8-19b4572366d8" />
 
 ## Notes
 
