@@ -44,6 +44,10 @@ while len(guessed_states) < len(all_states):
         pandas.DataFrame(missing_states, columns=["state"]).to_csv("states_to_learn.csv", index=False)
         break
 
+    # Skip if the state was already guessed
+    if user_answer in guessed_states:
+        continue
+
     # Check if answer matches any state
     if user_answer in all_states:
 
