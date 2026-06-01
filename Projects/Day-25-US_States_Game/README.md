@@ -322,7 +322,7 @@ turtle.mainloop()
 ```
 ***
 
-### .iloc[0] vs .item() in Pandas
+### `.iloc[0]` vs `.item()` in Pandas
 ###### When working with filtered Pandas DataFrames, you often end up with a single value stored inside a Series.
 ```python
 # There are two common ways to extract that value: .iloc[0] and .item().
