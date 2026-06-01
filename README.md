@@ -149,6 +149,11 @@ DAY-XX-PROJECT_NAME/
   </tr>
 
   <tr>
+    <td>25</td>
+    <td><a href="./Projects/Day-25-US_States_Game/README.md">U.S. States Game</a></td>
+  </tr>
+
+  <tr>
     <td>...</td>
     <td>...</td>
   </tr>
