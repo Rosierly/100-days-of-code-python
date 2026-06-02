@@ -1,6 +1,7 @@
 # Day 26 - NATO Phonetic Alphabet Converter
 A Python program that converts user input words into NATO phonetic code words using a CSV-based lookup table.
 
+<img width="auto" height="270" alt="day-26-project" src="https://github.com/user-attachments/assets/613bfc1f-b950-48e2-a7ce-6c248c6f364d" />
 
 ## Packages used:
 - pandas → data manipulation and analysis library for working with structured (tabular) data using DataFrames
