@@ -1,4 +1,4 @@
-# Day 26 - The NATO Alphabet
+# Day 26 - NATO Phonetic Alphabet Converter
 A Python program that converts user input words into NATO phonetic code words using a CSV-based lookup table.
 
 
