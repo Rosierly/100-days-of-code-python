@@ -154,6 +154,11 @@ DAY-XX-PROJECT_NAME/
   </tr>
 
   <tr>
+    <td>26</td>
+    <td><a href="./Projects/Day-26-NATO_Alphabet_Converter/README.md">NATO Alphabet Converter</a></td>
+  </tr>
+
+  <tr>
     <td>...</td>
     <td>...</td>
   </tr>
