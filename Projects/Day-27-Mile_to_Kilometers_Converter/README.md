@@ -1,6 +1,7 @@
 # Day 27 - Mile to Kilometers Converter
 A simple Tkinter GUI application that converts miles to kilometers with real-time input validation and a clean, interactive interface.
 
+<img width="auto" height="260" alt="day-27-project" src="https://github.com/user-attachments/assets/635c5fe7-2a87-4c5a-9c20-452e0dd0f975" />
 
 ## Notes
 
