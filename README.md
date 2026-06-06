@@ -98,7 +98,7 @@ DAY-XX-PROJECT_NAME/
 
   <!-- INTERMEDIATE -->
   <tr>
-    <td rowspan="26">🟡 Intermediate<br>(Day 15–31)</td>
+    <td rowspan="17">🟡 Intermediate<br>(Day 15–31)</td>
     <td>15</td>
     <td><a href="./Projects/Day-15-Coffee_Machine_Procedural/README.md">Coffee Machine Procedural</a></td>
   </tr>
