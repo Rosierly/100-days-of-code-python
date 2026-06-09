@@ -164,6 +164,11 @@ DAY-XX-PROJECT_NAME/
   </tr>
 
   <tr>
+    <td>28</td>
+    <td><a href="./Projects/Day-28-Pomodoro_App/README.md">Pomodoro App</a></td>
+  </tr>
+
+  <tr>
     <td>...</td>
     <td>...</td>
   </tr>
