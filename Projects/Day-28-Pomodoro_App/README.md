@@ -1,6 +1,7 @@
 # Day 28 - Pomodoro GUI App
 A Pomodoro timer desktop app built with Tkinter that alternates between focused work sessions and breaks, using a visual countdown and progress checkmarks to track completed cycles.
 
+<img width="auto" height="560" alt="day-28-project" src="https://github.com/user-attachments/assets/3bfc6885-7670-48b9-90ba-4c266e361603" />
 
 ## Notes
 
