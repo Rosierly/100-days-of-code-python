@@ -282,7 +282,7 @@ print(type(value))  # str
 ***
 
 
-## Tkinter Widget Options Cheat Sheet
+### Tkinter Widget Options Cheat Sheet
 ###### These are the most frequently used arguments you can pass into Tkinter widgets like Label, Button, Canvas, Frame, etc.
 
 | Argument            | Description | Example |
