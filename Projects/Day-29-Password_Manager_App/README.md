@@ -2,6 +2,7 @@
 
 A password manager that generates secure passwords, toggles visibility, copies generated passwords to the clipboard, and stores website login credentials.
 
+<img width="auto" height="620" alt="day-29-project" src="https://github.com/user-attachments/assets/8a7469de-15fe-41be-8624-007a07120512" />
 
 ## Packages used:
 - pyperclip → cross-platform clipboard module used to copy and paste text to the system clipboard programmatically
