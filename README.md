@@ -169,6 +169,11 @@ DAY-XX-PROJECT_NAME/
   </tr>
 
   <tr>
+    <td>29</td>
+    <td><a href="./Projects/Day-29-Password_Manager_App/README.md">Password Manager App</a></td>
+  </tr>
+
+  <tr>
     <td>...</td>
     <td>...</td>
   </tr>
