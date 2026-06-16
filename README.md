@@ -174,6 +174,11 @@ DAY-XX-PROJECT_NAME/
   </tr>
 
   <tr>
+    <td>30</td>
+    <td><a href="./Projects/Day-30-Password_Manager_app_with_JSON/README.md">Password Manager App with JSON</a></td>
+  </tr>
+
+  <tr>
     <td>...</td>
     <td>...</td>
   </tr>
