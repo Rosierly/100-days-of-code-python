@@ -1,6 +1,7 @@
 # Day 30 - Password Manager App with JSON
 An improved GUI-based password manager that generates, stores, and retrieves secure credentials using a JSON file and clipboard support.
 
+<img width="auto" height="620" alt="day-30-project" src="https://github.com/user-attachments/assets/9efbbb48-31c5-450d-a4d9-3dd3ba3e5b9b" />
 
 ## Update the NATO Alphabet Converter project (Day 25) by adding exception handling.
 
