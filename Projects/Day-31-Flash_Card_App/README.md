@@ -1,6 +1,7 @@
 # Day 31 - Flash Card App
 A language-learning flashcard application that displays random vocabulary cards, automatically reveals translations, and saves learning progress between sessions using CSV files.
 
+<img width="auto" height="600" alt="day-31-project" src="https://github.com/user-attachments/assets/49d44580-fccf-45fe-ba60-f00b4f5eaa6c" />
 
 ### Packages used (only for NATO Alphabet Converter):
 - pandas → data manipulation and analysis library for working with structured (tabular) data using DataFrames
