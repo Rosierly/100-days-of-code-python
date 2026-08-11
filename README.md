@@ -1,21 +1,7 @@
-# 100-Days-of-Code-Python
-Tracking my progress in the 100 Days of Code course with Python projects, challenges, and notes.
+# 100 Days of Code Python
+Tracking my progress through [100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu](https://www.udemy.com/course/100-days-of-code/) on Udemy, with projects, coding challenges, and notes.
 
----
-
-#### Each DAY-XX folder's structure: 
-```
-DAY-XX-PROJECT_NAME/
-│
-├── README.md → Project overview, instructions, packages used, and concepts learned
-├── assets/ → Images, PDFs, datasets, or other project resources
-├── practice/ → Optional practice/sandbox files for experimenting with concepts
-└── src/
-    ├── main.py → Main Python script for the project
-    └── other files → Additional modules required for the project
-```
-
----
+## Course Contents & Progress
 
 <table>
   <tr>
@@ -189,3 +175,16 @@ DAY-XX-PROJECT_NAME/
     <td>...</td>
   </tr>
 </table>
+
+
+## 📁 Each DAY-XX Folder's Structure
+```
+DAY-XX-PROJECT_NAME/
+│
+├── README.md → Project overview, instructions, packages used, and concepts learned
+├── assets/ → Images, PDFs, datasets, or other project resources
+├── practice/ → Optional practice/sandbox files for experimenting with concepts
+└── src/
+    ├── main.py → Main Python script for the project
+    └── other files → Additional modules required for the project
+```
